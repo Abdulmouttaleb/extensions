@@ -1,0 +1,51 @@
+{
+  "extensions": [
+    {
+      "name": "CrmPro",
+      "enabled": true,
+      "allowed_groups": ["finincial"],
+      "banned_users": ["banned_user1@example.com", "banned_user2@example.com"],
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com"
+      ]
+    },
+    {
+      "name": "TraderUpdate",
+      "enabled": true,
+      "allowed_groups": ["Documentation team"],
+      "banned_users": ["banned_user3@example.com"],
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com"
+      ]
+    },
+    {
+      "name": "LiveRegistration",
+      "enabled": true,
+      "allowed_groups": ["Documentation team"],
+      "banned_users": [],
+      "super_users": ["super_user4@example.com"]
+    },
+    {
+      "name": "P2P",
+      "enabled": true,
+      "allowed_groups": ["IB Team"],
+      "banned_users": ["banned_user4@example.com", "banned_user5@example.com"],
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com"
+      ]
+    },
+    {
+      "name": "Electronic Deposits",
+      "enabled": true,
+      "allowed_groups": ["finincial"],
+      "banned_users": ["banned_user6@example.com"],
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com"
+      ]
+    }
+  ]
+}
