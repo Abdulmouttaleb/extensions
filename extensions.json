@@ -3,10 +3,10 @@
     {
       "name": "CrmPro",
       "enabled": true,
-      "allowed_groups": ["Documentation team"],
+      "allowed_groups": ["finincial"],
       "banned_users": [],
       "super_users": [
-        "abdulmouttaleb1.abdul@inzogroup.co",
+        "abdulmouttaleb.abdul@inzogroup.co",
         "husaeen.alsafi1995@gmail.com"
       ]
     },
