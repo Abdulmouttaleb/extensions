@@ -3,7 +3,7 @@
     {
       "name": "CrmPro",
       "enabled": true,
-      "allowed_groups": ["finincial"],
+      "allowed_groups": ["Documentation team"],
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
