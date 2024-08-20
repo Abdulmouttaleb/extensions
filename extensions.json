@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Electronic Deposits",
+      "name": "ElectronicDeposits",
       "enabled": true,
       "allowed_groups": ["finincial"],
       "banned_users": ["banned_user6@example.com"],
