@@ -7,7 +7,8 @@
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
-        "husaeen.alsafi1995@gmail.com"
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co"
       ]
     },
     {
@@ -17,7 +18,8 @@
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
-        "husaeen.alsafi1995@gmail.com"
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co"
       ]
     },
     {
@@ -25,7 +27,11 @@
       "enabled": true,
       "allowed_groups": ["Documentation team"],
       "banned_users": [],
-      "super_users": ["super_user4@example.com"]
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co"
+      ]
     },
     {
       "name": "P2P",
@@ -34,7 +40,8 @@
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
-        "husaeen.alsafi1995@gmail.com"
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co"
       ]
     },
     {
@@ -44,7 +51,8 @@
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
-        "husaeen.alsafi1995@gmail.com"
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co"
       ]
     }
   ]
