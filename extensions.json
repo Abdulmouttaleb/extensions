@@ -54,6 +54,17 @@
         "husaeen.alsafi1995@gmail.com",
         "osama.alali@inzogroup.co"
       ]
+    },
+    {
+      "name": "IB",
+      "enabled": true,
+      "allowed_groups": ["IB Team"],
+      "banned_users": [],
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co"
+      ]
     }
   ]
 }
