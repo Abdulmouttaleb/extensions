@@ -68,7 +68,7 @@
     },
     {
       "name": "MiniCrm",
-      "enabled": false,
+      "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
       "super_users": []
