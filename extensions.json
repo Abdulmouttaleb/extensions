@@ -65,6 +65,13 @@
         "husaeen.alsafi1995@gmail.com",
         "osama.alali@inzogroup.co"
       ]
+    },
+    {
+      "name": "MiniCrm",
+      "enabled": true,
+      "allowed_groups": [],
+      "banned_users": [],
+      "super_users": []
     }
   ]
 }
