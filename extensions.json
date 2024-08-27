@@ -71,7 +71,15 @@
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
-      "super_users": []
+      "super_users": [
+        "abdulmouttaleb.abdul@inzogroup.co",
+        "husaeen.alsafi1995@gmail.com",
+        "osama.alali@inzogroup.co",
+        "hussein.habeeb@inzogroup.co",
+        "ahmad.alnukari@inzogroup.co",
+        "fadil.rashid@inzogroup.co",
+        "mohamed.nama@inzogroup.co"
+      ]
     }
   ]
 }
