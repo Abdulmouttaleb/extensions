@@ -14,11 +14,12 @@
     {
       "name": "TraderUpdate",
       "enabled": true,
-      "allowed_groups": ["Documentation team"],
+      "allowed_groups": ["none"],
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
-        "husaeen.alsafi1995@gmail.com"
+        "husaeen.alsafi1995@gmail.com",
+        "mouhamad.hammoud@inzogroup.co"
       ]
     },
     {
