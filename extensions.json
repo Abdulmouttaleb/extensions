@@ -98,22 +98,22 @@
   "permissions": {
     "super_admins": [
       "husaeen.alsafi1995@gmail.com",
-      "abdulmouttaleb.abdul@inzogroup.co",        
-      ],
+      "abdulmouttaleb.abdul@inzogroup.co"
+    ],
     "can_do_finance": [
-      "finincial",
+      "finincial"
     ],
     "can_edit_account_information": [
-      "finincial",
+      "finincial"
     ],
     "can_edit_client_details": [
-      "Documentation team",
+      "Documentation team"
     ],
     "can_do_kyc": [
-      "Documentation team",
+      "Documentation team"
     ],
     "can_edit_docs": [
-      "Documentation team",
-    ],
+      "Documentation team"
+    ]
   }
 }
