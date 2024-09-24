@@ -94,5 +94,26 @@
         "mohamed.nama@inzogroup.co"
       ]
     }
-  ]
+  ],
+  "permissions": {
+    "super_admins": [
+      "husaeen.alsafi1995@gmail.com",
+      "abdulmouttaleb.abdul@inzogroup.co",        
+      ],
+    "can_do_finance": [
+      "finincial",
+    ],
+    "can_edit_account_information": [
+      "finincial",
+    ],
+    "can_edit_client_details": [
+      "Documentation team",
+    ],
+    "can_do_kyc": [
+      "Documentation team",
+    ],
+    "can_edit_docs": [
+      "Documentation team",
+    ],
+  }
 }
