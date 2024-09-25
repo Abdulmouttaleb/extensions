@@ -56,7 +56,7 @@
     },
     {
       "name": "IB",
-      "current_version": "0.0.3",
+      "current_version": "0.0.4",
       "enabled": true,
       "allowed_groups": ["IB Team"],
       "banned_users": [],
