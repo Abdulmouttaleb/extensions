@@ -37,6 +37,7 @@
     },
     {
       "name": "P2P",
+      "current_version": "0.0.6",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
