@@ -86,6 +86,7 @@
     },
     {
       "name": "MiniCrm",
+      "current_version": "0.0.3",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -108,7 +109,7 @@
       "finincial"
     ],
     "can_edit_account_information": [
-      "finincial"
+      "finincial", "IB Team"
     ],
     "can_edit_client_details": [
       "Documentation team"
