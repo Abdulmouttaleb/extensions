@@ -25,7 +25,7 @@
     },
     {
       "name": "LiveRegistration",
-      "current_version": "0.0.9",
+      "current_version": "0.0.12",
       "enabled": true,
       "allowed_groups": ["Documentation team"],
       "banned_users": [],
@@ -37,7 +37,7 @@
     },
     {
       "name": "P2P",
-      "current_version": "0.0.6",
+      "current_version": "0.0.7",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -59,7 +59,7 @@
     },
     {
       "name": "IB",
-      "current_version": "0.0.4",
+      "current_version": "0.0.6",
       "enabled": true,
       "allowed_groups": ["IB Team"],
       "banned_users": [],
@@ -86,7 +86,7 @@
     },
     {
       "name": "MiniCrm",
-      "current_version": "0.0.3",
+      "current_version": "0.0.4",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
