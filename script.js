@@ -1,5 +1,5 @@
 // Fetch the JSON data (replace with your actual GitHub repo URL)
-fetch('https://raw.githubusercontent.com/your-username/your-repo/main/permissions.json')
+fetch('https://github.com/Abdulmouttaleb/extensions/blob/main/permissions.json')
   .then(response => response.json())
   .then(data => {
     // Populate the extensions table
