@@ -2,7 +2,7 @@
   "extensions": [
     {
       "name": "CrmPro",
-      "current_version": "0.0.35",
+      "current_version": "0.0.37",
       "enabled": true,
       "allowed_groups": ["finincial"],
       "banned_users": [],
@@ -25,7 +25,7 @@
     },
     {
       "name": "LiveRegistration",
-      "current_version": "0.0.13",
+      "current_version": "0.0.14",
       "enabled": true,
       "allowed_groups": ["Documentation team"],
       "banned_users": [],
@@ -37,7 +37,7 @@
     },
     {
       "name": "P2P",
-      "current_version": "0.0.8",
+      "current_version": "0.0.9",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -59,7 +59,7 @@
     },
     {
       "name": "IB",
-      "current_version": "0.0.7",
+      "current_version": "0.0.8",
       "enabled": true,
       "allowed_groups": ["IB Team"],
       "banned_users": [],
@@ -86,7 +86,7 @@
     },
     {
       "name": "MiniCrm",
-      "current_version": "0.0.5",
+      "current_version": "0.0.6",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -94,6 +94,7 @@
         "abdulmouttaleb.abdul@inzogroup.co",
         "husaeen.alsafi1995@gmail.com",
         "hussein.habeeb@inzogroup.co",
+        "haya.abdallah@inzogroup.co",
         "ahmad.alnukari@inzogroup.co",
         "fadil.rashid@inzogroup.co",
         "mohamed.nama@inzogroup.co"
@@ -115,13 +116,13 @@
       "IB Team"
     ],
     "can_do_support": [
-      "IB Team", "live chat"
+      "IB Team", "haya.abdallah@inzogroup.co", "mohamed.nama@inzogroup.co", "ahmad.alnukari@inzogroup.co", "fadil.rashid@inzogroup.co"
     ],
     "can_edit_account_information": [
       "finincial", "IB Team", "Documentation team"
     ],
     "can_change_account_group": [
-      "Documentation team", "finincial"
+      "mouhamad.hammoud@inzogroup.co", "finincial"
     ],
     "can_change_leverage": [
       "Documentation team", "finincial"
@@ -133,13 +134,13 @@
       "Documentation team"
     ],
     "can_do_kyc": [
-      "Documentation team", "IB Team"
+      "Documentation team", "IB Team", "haya.abdallah@inzogroup.co", "mohamed.nama@inzogroup.co", "ahmad.alnukari@inzogroup.co", "fadil.rashid@inzogroup.co"
     ],
     "can_edit_docs": [
       "Documentation team"
     ],
     "can_send_email": [
-      "Documentation team", "finincial", "IB Team"
+      "Documentation team", "finincial", "IB Team", "P2P "
     ]
   }
 }
