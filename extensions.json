@@ -116,16 +116,24 @@
       "IB Team"
     ],
     "can_do_support": [
-      "IB Team", "haya.abdallah@inzogroup.co", "mohamed.nama@inzogroup.co", "ahmad.alnukari@inzogroup.co", "fadil.rashid@inzogroup.co"
+      "IB Team",
+      "haya.abdallah@inzogroup.co",
+      "mohamed.nama@inzogroup.co",
+      "ahmad.alnukari@inzogroup.co",
+      "fadil.rashid@inzogroup.co"
     ],
     "can_edit_account_information": [
-      "finincial", "IB Team", "Documentation team"
+      "finincial",
+      "IB Team",
+      "Documentation team"
     ],
     "can_change_account_group": [
-      "mouhamad.hammoud@inzogroup.co", "finincial"
+      "mouhamad.hammoud@inzogroup.co",
+      "finincial"
     ],
     "can_change_leverage": [
-      "Documentation team", "finincial"
+      "Documentation team",
+      "finincial"
     ],
     "can_change_agent": [
       "IB Team"
@@ -134,13 +142,25 @@
       "Documentation team"
     ],
     "can_do_kyc": [
-      "Documentation team", "IB Team", "haya.abdallah@inzogroup.co", "mohamed.nama@inzogroup.co", "ahmad.alnukari@inzogroup.co", "fadil.rashid@inzogroup.co"
+      "Documentation team",
+      "IB Team",
+      "haya.abdallah@inzogroup.co",
+      "mohamed.nama@inzogroup.co",
+      "ahmad.alnukari@inzogroup.co",
+      "fadil.rashid@inzogroup.co"
     ],
     "can_edit_docs": [
       "Documentation team"
     ],
     "can_send_email": [
-      "Documentation team", "finincial", "IB Team", "P2P ", "haya.abdallah@inzogroup.co", "mohamed.nama@inzogroup.co", "ahmad.alnukari@inzogroup.co", "fadil.rashid@inzogroup.co"
+      "Documentation team",
+      "finincial",
+      "IB Team",
+      "P2P ",
+      "haya.abdallah@inzogroup.co",
+      "mohamed.nama@inzogroup.co",
+      "ahmad.alnukari@inzogroup.co",
+      "fadil.rashid@inzogroup.co"
     ]
   }
 }
