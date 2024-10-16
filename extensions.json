@@ -89,7 +89,18 @@
       "name": "MiniCrm",
       "current_version": "0.0.7",
       "enabled": true,
-      "allowed_groups": ["haya.abdallah@inzogroup.co"],
+      "allowed_groups": [
+    "Inzo.Training@inzogroup.co",
+    "Mohamed.AbdAlkareem@inzogroup.co",
+    "molham.Eid@inzogroup.co",
+    "houssein.kataya@inzogroup.co",
+    "iman.alhawli@inzogroup.co",
+    "abdelrhman.mohamed@inzogroup.co",
+    "mohamed.elaal@inzogroup.co",
+    "mohamed.mohamed@inzogroup.co",
+    "faraj.shalouf@inzogroup.co",
+    "Mohamed.Abdelfattah@inzogroup.co"
+        ],
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
