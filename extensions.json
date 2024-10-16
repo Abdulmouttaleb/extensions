@@ -89,7 +89,7 @@
       "name": "MiniCrm",
       "current_version": "0.0.6",
       "enabled": true,
-      "allowed_groups": ["none"],
+      "allowed_groups": ["abdulmouttaleb.abdul@inzogroup.co"],
       "banned_users": [],
       "super_users": [
         "husaeen.alsafi1995@gmail.com",
