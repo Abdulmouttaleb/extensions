@@ -87,9 +87,9 @@
     },
     {
       "name": "MiniCrm",
-      "current_version": "0.0.6",
+      "current_version": "0.0.7",
       "enabled": true,
-      "allowed_groups": [],
+      "allowed_groups": ["haya.abdallah@inzogroup.co"],
       "banned_users": [],
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
