@@ -2,7 +2,7 @@
   "extensions": [
     {
       "name": "CrmPro",
-      "current_version": "0.0.52",
+      "current_version": "0.0.53",
       "enabled": true,
       "allowed_groups": ["finincial"],
       "banned_users": [],
