@@ -100,7 +100,6 @@
         "molham.Eid@inzogroup.co",
         "houssein.kataya@inzogroup.co",
         "iman.alhawli@inzogroup.co",
-        "abdelrhman.mohamed@inzogroup.co",
         "mohamed.elaal@inzogroup.co",
         "mohamed.mohamed@inzogroup.co",
         "faraj.shalouf@inzogroup.co",
@@ -129,12 +128,11 @@
       "super_users": [
         "abdulmouttaleb.abdul@inzogroup.co",
         "husaeen.alsafi1995@gmail.com",
-        "hussein.habeeb@inzogroup.co",
-        "haya.abdallah@inzogroup.co",
+        "kassem.safar@inzogroup.co",
         "ahmad.alnukari@inzogroup.co",
-        "fadil.rashid@inzogroup.co",
         "mohamed.nama@inzogroup.co",
-        "mohamed.elaal@inzogroup.co"
+        "mohamed.elaal@inzogroup.co",
+        "abdelrhman.mohamed@inzogroup.co"
       ]
     }
   ],
@@ -156,10 +154,10 @@
     ],
     "can_do_support": [
       "IB Team",
-      "haya.abdallah@inzogroup.co",
+      "abdelrhman.mohamed@inzogroup.co",
       "mohamed.nama@inzogroup.co",
       "ahmad.alnukari@inzogroup.co",
-      "fadil.rashid@inzogroup.co"
+      "kassem.safar@inzogroup.co"
     ],
     "can_edit_account_information": [
       "finincial",
@@ -185,10 +183,10 @@
     "can_do_kyc": [
       "Documentation team",
       "IB Team",
-      "haya.abdallah@inzogroup.co",
+      "abdelrhman.mohamed@inzogroup.co",
       "mohamed.nama@inzogroup.co",
       "ahmad.alnukari@inzogroup.co",
-      "fadil.rashid@inzogroup.co"
+      "kassem.safar@inzogroup.co"
     ],
     "can_edit_docs": [
       "Documentation team"
@@ -198,10 +196,9 @@
       "finincial",
       "IB Team",
       "P2P ",
-      "haya.abdallah@inzogroup.co",
+      "abdelrhman.mohamed@inzogroup.co",
       "mohamed.nama@inzogroup.co",
       "ahmad.alnukari@inzogroup.co",
-      "fadil.rashid@inzogroup.co",
       "kassem.safar@inzogroup.co",
       "mohamed.elaal@inzogroup.co"
     ]
