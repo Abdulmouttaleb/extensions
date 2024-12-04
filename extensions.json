@@ -38,7 +38,7 @@
     },
     {
       "name": "P2P",
-      "current_version": "0.0.9",
+      "current_version": "0.0.10",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -92,7 +92,7 @@
     },
     {
       "name": "MiniCrm",
-      "current_version": "0.0.7",
+      "current_version": "0.0.8",
       "enabled": true,
       "allowed_groups": [
         "Inzo.Training@inzogroup.co",
