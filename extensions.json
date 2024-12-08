@@ -2,7 +2,7 @@
   "extensions": [
     {
       "name": "CrmPro",
-      "current_version": "0.0.54",
+      "current_version": "0.0.55",
       "enabled": true,
       "allowed_groups": ["finincial"],
       "banned_users": [],
@@ -26,7 +26,7 @@
     },
     {
       "name": "LiveRegistration",
-      "current_version": "0.0.20",
+      "current_version": "0.0.22",
       "enabled": true,
       "allowed_groups": ["Documentation team"],
       "banned_users": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "P2P",
-      "current_version": "0.0.10",
+      "current_version": "0.0.11",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -70,7 +70,7 @@
     },
     {
       "name": "IB",
-      "current_version": "0.0.8",
+      "current_version": "0.0.9",
       "enabled": true,
       "allowed_groups": ["IB Team"],
       "banned_users": [],
@@ -103,7 +103,7 @@
     },
     {
       "name": "MiniCrm",
-      "current_version": "0.0.8",
+      "current_version": "0.0.9",
       "enabled": true,
       "allowed_groups": [
         "Inzo.Training@inzogroup.co",
