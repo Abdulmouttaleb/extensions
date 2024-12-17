@@ -26,7 +26,7 @@
     },
     {
       "name": "LiveRegistration",
-      "current_version": "0.0.22",
+      "current_version": "0.0.23",
       "enabled": true,
       "allowed_groups": ["Documentation team"],
       "banned_users": [],
