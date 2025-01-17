@@ -26,7 +26,7 @@
     },
     {
       "name": "LiveRegistration",
-      "current_version": "0.0.24",
+      "current_version": "0.0.25",
       "enabled": true,
       "allowed_groups": ["Documentation team"],
       "banned_users": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "P2P",
-      "current_version": "0.0.18",
+      "current_version": "0.0.20",
       "enabled": true,
       "allowed_groups": [],
       "banned_users": [],
@@ -70,7 +70,7 @@
     },
     {
       "name": "IB",
-      "current_version": "0.0.10",
+      "current_version": "0.0.11",
       "enabled": true,
       "allowed_groups": ["IB Team"],
       "banned_users": [],
@@ -103,7 +103,7 @@
     },
     {
       "name": "MiniCrm",
-      "current_version": "0.0.10",
+      "current_version": "0.0.11",
       "enabled": true,
       "allowed_groups": [
         "Inzo.Training@inzogroup.co",
